@@ -29,7 +29,7 @@ To use this script, follow these steps:
 
 ## Sample Output
 
-![Sample Output](sample_output.png)
+![Sample Output](sample_output.PNG)
 
 Make sure to replace the paths in the script with the format you use on your system. This will ensure that the script correctly identifies the folder you want to analyze.
 
